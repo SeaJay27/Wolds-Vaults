@@ -22,13 +22,17 @@
 		},
 		// List of coolant fluids used in the Reactor and the Thermo Generator.
 		"coolant_fluids": {
-			"minecraft:water": 1
+			"minecraft:water": 1,
+			"the_vault:void_liquid": 0
 		},
 		// List of heat source blocks used under Thermo Generator.
 		"heat_blocks": {
-			"powah:blazing_crystal_block": 2800,
+			"minecraft:magma_block": 800,
 			"minecraft:lava": 1000,
-			"minecraft:magma_block": 800
+			"the_vault:vault_diamond_block": 1600,
+			"powah:blazing_crystal_block": 2000,
+			"compressium:vault_diamond_block_1": 2800,
+			"compressium:vault_diamond_block_2": 3400,
 		},
 		// Energy produced per fuel tick in the Furnator.
 		"energy_per_fuel_tick": 30,

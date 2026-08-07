@@ -31,7 +31,7 @@
 			"the_vault:vault_diamond_block": 1600,
 			"powah:blazing_crystal_block": 2000,
 			"compressium:vault_diamond_block_1": 2800,
-			"compressium:vault_diamond_block_2": 3400,
+			"compressium:vault_diamond_block_2": 3500,
 		},
 		// Energy produced per fuel tick in the Furnator.
 		"energy_per_fuel_tick": 30,
